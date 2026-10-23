@@ -1,0 +1,14 @@
+# Build output
+build/
+*.exe
+*.obj
+*.o
+
+# Audio rendered by tf_selftest
+renders/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
